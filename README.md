@@ -1,6 +1,6 @@
 # ULX-Cleanup
 
-# Reqauires ULX!
+# Requires ULX!
 
 # How to install:
 Just Drag and drop it in your addons folder, no need to do anything else.
